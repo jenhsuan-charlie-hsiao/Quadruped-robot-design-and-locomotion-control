@@ -4,5 +4,5 @@
 <br>● Implemented force/compliance control and rhythmic control to the brushless DC motors of the quadruped robot
 
 Demo videos:
-<br> video 1: gait cycle control https://youtu.be/vMxN3wJEU1U
-<br> video 2: locomotion 
+<br>gait cycle control https://youtu.be/vMxN3wJEU1U
+<br>locomotion https://youtu.be/ajOVDrmAHqo
