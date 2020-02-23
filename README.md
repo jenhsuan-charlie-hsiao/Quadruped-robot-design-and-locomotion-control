@@ -7,4 +7,4 @@ Demo videos:
 <br>gait cycle control: https://youtu.be/vMxN3wJEU1U
 <br>locomotion: https://youtu.be/ajOVDrmAHqo
  
-Please refer to the "Final-presentation.pdf" as the "readme" document, thank you.
+Please refer to the "Final-presentation.pdf" for details and final report, thank you.
